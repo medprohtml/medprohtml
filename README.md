@@ -1,6 +1,5 @@
 <h3 align="center">A passionate fullsatck developer from morocco</h3>
-
-
+<p align="center" width="50%"> <img  </p>
 
 
 
@@ -9,7 +8,7 @@
 - 💬 Ask me about **react, laravel**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><img width="100%" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
