@@ -1,5 +1,5 @@
 <h3 align="center">A passionate fullsatck developer from morocco</h3>
-<p align="left"><img width="100%" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
+<p align="left" width="50%" height="40px"><img width="100%" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
 </p>
 
 
